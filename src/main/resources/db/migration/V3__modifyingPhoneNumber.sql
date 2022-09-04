@@ -1,0 +1,1 @@
+ALTER TABLE student MODIFY phoneNumber VARCHAR(10)

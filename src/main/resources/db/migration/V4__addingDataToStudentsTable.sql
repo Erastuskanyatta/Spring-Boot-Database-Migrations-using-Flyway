@@ -1,0 +1,2 @@
+INSERT INTO student(email, first_name, last_name, course, registration_number,phoneNumber) values ("me@gmail.com", "gmail", "yahoo", "Computer science", "ABA1112","0709876543");
+INSERT INTO  student(email, first_name, last_name, course, registration_number,phoneNumber) values ("testing@gmail.com", "test1", "test2", "Computer science", "ABA7712","0700000000");
